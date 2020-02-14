@@ -1,0 +1,11 @@
+/Users/bodah/dev/CSharp/ConsoleApps/ConsoleApps/bin/Debug/netcoreapp3.1/ConsoleApps
+/Users/bodah/dev/CSharp/ConsoleApps/ConsoleApps/bin/Debug/netcoreapp3.1/ConsoleApps.deps.json
+/Users/bodah/dev/CSharp/ConsoleApps/ConsoleApps/bin/Debug/netcoreapp3.1/ConsoleApps.runtimeconfig.json
+/Users/bodah/dev/CSharp/ConsoleApps/ConsoleApps/bin/Debug/netcoreapp3.1/ConsoleApps.runtimeconfig.dev.json
+/Users/bodah/dev/CSharp/ConsoleApps/ConsoleApps/bin/Debug/netcoreapp3.1/ConsoleApps.dll
+/Users/bodah/dev/CSharp/ConsoleApps/ConsoleApps/bin/Debug/netcoreapp3.1/ConsoleApps.pdb
+/Users/bodah/dev/CSharp/ConsoleApps/ConsoleApps/obj/Debug/netcoreapp3.1/ConsoleApps.csprojAssemblyReference.cache
+/Users/bodah/dev/CSharp/ConsoleApps/ConsoleApps/obj/Debug/netcoreapp3.1/ConsoleApps.AssemblyInfoInputs.cache
+/Users/bodah/dev/CSharp/ConsoleApps/ConsoleApps/obj/Debug/netcoreapp3.1/ConsoleApps.AssemblyInfo.cs
+/Users/bodah/dev/CSharp/ConsoleApps/ConsoleApps/obj/Debug/netcoreapp3.1/ConsoleApps.dll
+/Users/bodah/dev/CSharp/ConsoleApps/ConsoleApps/obj/Debug/netcoreapp3.1/ConsoleApps.pdb

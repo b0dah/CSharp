@@ -1,0 +1,11 @@
+/Users/bodah/dev/CSharp/Lab2Spiral/Lab2Spiral/obj/Debug/netcoreapp3.1/Lab2Spiral.csprojAssemblyReference.cache
+/Users/bodah/dev/CSharp/Lab2Spiral/Lab2Spiral/obj/Debug/netcoreapp3.1/Lab2Spiral.AssemblyInfoInputs.cache
+/Users/bodah/dev/CSharp/Lab2Spiral/Lab2Spiral/obj/Debug/netcoreapp3.1/Lab2Spiral.AssemblyInfo.cs
+/Users/bodah/dev/CSharp/Lab2Spiral/Lab2Spiral/bin/Debug/netcoreapp3.1/Lab2Spiral
+/Users/bodah/dev/CSharp/Lab2Spiral/Lab2Spiral/bin/Debug/netcoreapp3.1/Lab2Spiral.deps.json
+/Users/bodah/dev/CSharp/Lab2Spiral/Lab2Spiral/bin/Debug/netcoreapp3.1/Lab2Spiral.runtimeconfig.json
+/Users/bodah/dev/CSharp/Lab2Spiral/Lab2Spiral/bin/Debug/netcoreapp3.1/Lab2Spiral.runtimeconfig.dev.json
+/Users/bodah/dev/CSharp/Lab2Spiral/Lab2Spiral/bin/Debug/netcoreapp3.1/Lab2Spiral.dll
+/Users/bodah/dev/CSharp/Lab2Spiral/Lab2Spiral/bin/Debug/netcoreapp3.1/Lab2Spiral.pdb
+/Users/bodah/dev/CSharp/Lab2Spiral/Lab2Spiral/obj/Debug/netcoreapp3.1/Lab2Spiral.dll
+/Users/bodah/dev/CSharp/Lab2Spiral/Lab2Spiral/obj/Debug/netcoreapp3.1/Lab2Spiral.pdb

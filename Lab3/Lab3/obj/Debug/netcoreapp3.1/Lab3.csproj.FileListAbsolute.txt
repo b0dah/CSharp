@@ -1,0 +1,11 @@
+/Users/bodah/dev/CSharp/Lab3/Lab3/bin/Debug/netcoreapp3.1/Lab3
+/Users/bodah/dev/CSharp/Lab3/Lab3/bin/Debug/netcoreapp3.1/Lab3.deps.json
+/Users/bodah/dev/CSharp/Lab3/Lab3/bin/Debug/netcoreapp3.1/Lab3.runtimeconfig.json
+/Users/bodah/dev/CSharp/Lab3/Lab3/bin/Debug/netcoreapp3.1/Lab3.runtimeconfig.dev.json
+/Users/bodah/dev/CSharp/Lab3/Lab3/bin/Debug/netcoreapp3.1/Lab3.dll
+/Users/bodah/dev/CSharp/Lab3/Lab3/bin/Debug/netcoreapp3.1/Lab3.pdb
+/Users/bodah/dev/CSharp/Lab3/Lab3/obj/Debug/netcoreapp3.1/Lab3.csprojAssemblyReference.cache
+/Users/bodah/dev/CSharp/Lab3/Lab3/obj/Debug/netcoreapp3.1/Lab3.AssemblyInfoInputs.cache
+/Users/bodah/dev/CSharp/Lab3/Lab3/obj/Debug/netcoreapp3.1/Lab3.AssemblyInfo.cs
+/Users/bodah/dev/CSharp/Lab3/Lab3/obj/Debug/netcoreapp3.1/Lab3.dll
+/Users/bodah/dev/CSharp/Lab3/Lab3/obj/Debug/netcoreapp3.1/Lab3.pdb
