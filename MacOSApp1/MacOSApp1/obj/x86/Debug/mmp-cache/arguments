@@ -1,0 +1,21 @@
+# Version: 6.4.0.2 (HEAD): e37549bc9)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.Mac.framework/Versions/6.4.0.2/lib/mmp/mmp.exe
+/Library/Frameworks/Xamarin.Mac.framework/Versions/6.4.0.2/lib/mmp/mmp.exe \
+	/verbose \
+	' /debug' \
+	/output:/Users/bodah/dev/CSharp/MacOSApp1/MacOSApp1/bin/Debug/ \
+	/name:MacOSApp1 \
+	' /profile:Xamarin.Mac,Version=v2.0,Profile=Mobile' \
+	' /arch:x86_64' \
+	' --http-message-handler=HttpClientHandler' \
+	' /minos=10.15' \
+	' /nolink' \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Facades/System.Drawing.Common.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll \
+	/root-assembly:/Users/bodah/dev/CSharp/MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.exe \
+	/sdkroot:/Applications/Xcode.app/Contents/Developer \
+	--cache:/Users/bodah/dev/CSharp/MacOSApp1/MacOSApp1/obj/x86/Debug/mmp-cache \
+	@/Users/bodah/dev/CSharp/MacOSApp1/MacOSApp1/obj/x86/Debug/response-file.rsp \
