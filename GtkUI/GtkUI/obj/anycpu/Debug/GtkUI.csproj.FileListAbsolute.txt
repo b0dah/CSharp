@@ -1,0 +1,5 @@
+/Users/bodah/dev/CSharp/GtkUI/GtkUI/bin/Debug/GtkUI.exe
+/Users/bodah/dev/CSharp/GtkUI/GtkUI/bin/Debug/GtkUI.pdb
+/Users/bodah/dev/CSharp/GtkUI/GtkUI/obj/anycpu/Debug/GtkUI.csprojAssemblyReference.cache
+/Users/bodah/dev/CSharp/GtkUI/GtkUI/obj/anycpu/Debug/GtkUI.exe
+/Users/bodah/dev/CSharp/GtkUI/GtkUI/obj/anycpu/Debug/GtkUI.pdb

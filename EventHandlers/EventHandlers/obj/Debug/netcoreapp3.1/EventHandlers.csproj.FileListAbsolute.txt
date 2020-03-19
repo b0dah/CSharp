@@ -1,0 +1,10 @@
+/Users/bodah/dev/CSharp/EventHandlers/EventHandlers/bin/Debug/netcoreapp3.1/EventHandlers.deps.json
+/Users/bodah/dev/CSharp/EventHandlers/EventHandlers/bin/Debug/netcoreapp3.1/EventHandlers.runtimeconfig.json
+/Users/bodah/dev/CSharp/EventHandlers/EventHandlers/bin/Debug/netcoreapp3.1/EventHandlers.runtimeconfig.dev.json
+/Users/bodah/dev/CSharp/EventHandlers/EventHandlers/bin/Debug/netcoreapp3.1/EventHandlers.dll
+/Users/bodah/dev/CSharp/EventHandlers/EventHandlers/bin/Debug/netcoreapp3.1/EventHandlers.pdb
+/Users/bodah/dev/CSharp/EventHandlers/EventHandlers/obj/Debug/netcoreapp3.1/EventHandlers.csprojAssemblyReference.cache
+/Users/bodah/dev/CSharp/EventHandlers/EventHandlers/obj/Debug/netcoreapp3.1/EventHandlers.AssemblyInfoInputs.cache
+/Users/bodah/dev/CSharp/EventHandlers/EventHandlers/obj/Debug/netcoreapp3.1/EventHandlers.AssemblyInfo.cs
+/Users/bodah/dev/CSharp/EventHandlers/EventHandlers/obj/Debug/netcoreapp3.1/EventHandlers.dll
+/Users/bodah/dev/CSharp/EventHandlers/EventHandlers/obj/Debug/netcoreapp3.1/EventHandlers.pdb

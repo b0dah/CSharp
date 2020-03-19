@@ -20,18 +20,18 @@ namespace Lab2Spiral
             Console.WriteLine("> Enter matrix SIZE ...");
             string sizeString = Console.ReadLine();
 
-            try {
+            // try {
                 sbyte size = SByte.Parse(sizeString);
-            }
-            catch (FormatException) {
-                Console.WriteLine("!You entered a wrong size number!");
-                size = 3;
-            }
-            catch (Exception e) {
-                Console.WriteLine(e);
-                throw;
-            }
-            
+            // }
+            // catch (FormatException) {
+            //     Console.WriteLine("!You entered a wrong size number!");
+            //     size = 3;
+            // }
+            // catch (Exception e) {
+            //     Console.WriteLine(e);
+            //     Console.WriteLine("General Exception!");
+            //     throw;
+            // }
 
             sbyte 
                 counter = 0,
@@ -62,7 +62,6 @@ namespace Lab2Spiral
 
                 counter = 0;
                 dir *= -1;
-
             }
 
             prettyMatrixOutput(a, size);

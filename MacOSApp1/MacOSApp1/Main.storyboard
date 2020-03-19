@@ -677,14 +677,18 @@
                         <autoresizingMask key="autoresizingMask"/>
                         <subviews>
                             <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="PUW-Z9-FMp">
-                                <rect key="frame" x="222" y="127" width="37" height="16"/>
+                                <rect key="frame" x="222" y="127" width="43" height="16"/>
                                 <autoresizingMask key="autoresizingMask"/>
-                                <textFieldCell key="cell" lineBreakMode="clipping" title="Label" id="hs6-jg-cHN">
+                                <textFieldCell key="cell" lineBreakMode="clipping" title="Приет" id="hs6-jg-cHN">
                                     <font key="font" usesAppearanceFont="YES"/>
                                     <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
                                 </textFieldCell>
                             </textField>
+                            <switch horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" baseWritingDirection="leftToRight" alignment="left" translatesAutoresizingMaskIntoConstraints="NO" id="aaE-QI-u5Q">
+                                <rect key="frame" x="184" y="227" width="42" height="24"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                            </switch>
                         </subviews>
                     </view>
                 </viewController>

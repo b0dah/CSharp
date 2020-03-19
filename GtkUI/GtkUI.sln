@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GtkUI", "GtkUI\GtkUI.csproj", "{944BE2C9-743D-4AC3-8B9E-F4EE89EA0AA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944BE2C9-743D-4AC3-8B9E-F4EE89EA0AA0}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{944BE2C9-743D-4AC3-8B9E-F4EE89EA0AA0}.Debug|anycpu.Build.0 = Debug|anycpu
+		{944BE2C9-743D-4AC3-8B9E-F4EE89EA0AA0}.Release|anycpu.ActiveCfg = Release|anycpu
+		{944BE2C9-743D-4AC3-8B9E-F4EE89EA0AA0}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

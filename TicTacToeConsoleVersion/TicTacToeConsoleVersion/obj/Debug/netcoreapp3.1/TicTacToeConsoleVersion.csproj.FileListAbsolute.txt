@@ -1,4 +1,3 @@
-/Users/bodah/dev/CSharp/TicTacToeConsoleVersion/TicTacToeConsoleVersion/bin/Debug/netcoreapp3.1/TicTacToeConsoleVersion
 /Users/bodah/dev/CSharp/TicTacToeConsoleVersion/TicTacToeConsoleVersion/bin/Debug/netcoreapp3.1/TicTacToeConsoleVersion.deps.json
 /Users/bodah/dev/CSharp/TicTacToeConsoleVersion/TicTacToeConsoleVersion/bin/Debug/netcoreapp3.1/TicTacToeConsoleVersion.runtimeconfig.json
 /Users/bodah/dev/CSharp/TicTacToeConsoleVersion/TicTacToeConsoleVersion/bin/Debug/netcoreapp3.1/TicTacToeConsoleVersion.runtimeconfig.dev.json

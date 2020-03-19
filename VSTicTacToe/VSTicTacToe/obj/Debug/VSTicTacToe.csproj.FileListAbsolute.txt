@@ -1,0 +1,10 @@
+\\Mac\AllFiles\Users\bodah\dev\CSharp\VSTicTacToe\VSTicTacToe\bin\Debug\VSTicTacToe.exe.config
+\\Mac\AllFiles\Users\bodah\dev\CSharp\VSTicTacToe\VSTicTacToe\bin\Debug\VSTicTacToe.exe
+\\Mac\AllFiles\Users\bodah\dev\CSharp\VSTicTacToe\VSTicTacToe\bin\Debug\VSTicTacToe.pdb
+\\Mac\AllFiles\Users\bodah\dev\CSharp\VSTicTacToe\VSTicTacToe\obj\Debug\VSTicTacToe.csprojAssemblyReference.cache
+\\Mac\AllFiles\Users\bodah\dev\CSharp\VSTicTacToe\VSTicTacToe\obj\Debug\VSTicTacToe.Form1.resources
+\\Mac\AllFiles\Users\bodah\dev\CSharp\VSTicTacToe\VSTicTacToe\obj\Debug\VSTicTacToe.Properties.Resources.resources
+\\Mac\AllFiles\Users\bodah\dev\CSharp\VSTicTacToe\VSTicTacToe\obj\Debug\VSTicTacToe.csproj.GenerateResource.cache
+\\Mac\AllFiles\Users\bodah\dev\CSharp\VSTicTacToe\VSTicTacToe\obj\Debug\VSTicTacToe.csproj.CoreCompileInputs.cache
+\\Mac\AllFiles\Users\bodah\dev\CSharp\VSTicTacToe\VSTicTacToe\obj\Debug\VSTicTacToe.exe
+\\Mac\AllFiles\Users\bodah\dev\CSharp\VSTicTacToe\VSTicTacToe\obj\Debug\VSTicTacToe.pdb

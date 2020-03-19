@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93ae794e-ae57-4ed5-be46-e83b2329ac93" name="Default Changelist" comment="" />
+    <list default="true" id="93ae794e-ae57-4ed5-be46-e83b2329ac93" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lab2Spiral/.idea/.idea.Lab2Spiral/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Spiral/.idea/.idea.Lab2Spiral/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Spiral/Lab2Spiral/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Spiral/Lab2Spiral/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Spiral/Lab2Spiral/bin/Debug/netcoreapp3.1/Lab2Spiral.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Spiral/Lab2Spiral/bin/Debug/netcoreapp3.1/Lab2Spiral.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Spiral/Lab2Spiral/bin/Debug/netcoreapp3.1/Lab2Spiral.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Spiral/Lab2Spiral/bin/Debug/netcoreapp3.1/Lab2Spiral.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Spiral/Lab2Spiral/obj/Debug/netcoreapp3.1/Lab2Spiral.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Spiral/Lab2Spiral/obj/Debug/netcoreapp3.1/Lab2Spiral.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Spiral/Lab2Spiral/obj/Debug/netcoreapp3.1/Lab2Spiral.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Spiral/Lab2Spiral/obj/Debug/netcoreapp3.1/Lab2Spiral.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/bin/Debug/netcoreapp3.1/Lab3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/bin/Debug/netcoreapp3.1/Lab3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/bin/Debug/netcoreapp3.1/Lab3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/bin/Debug/netcoreapp3.1/Lab3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/obj/Debug/netcoreapp3.1/Lab3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/obj/Debug/netcoreapp3.1/Lab3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/obj/Debug/netcoreapp3.1/Lab3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/obj/Debug/netcoreapp3.1/Lab3.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Lab3/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -18,6 +34,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1XkmdeY6DWKwS2HSMNcFKXmjztU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -58,34 +75,39 @@
       <option name="presentableId" value="Default" />
       <updated>1581598554341</updated>
       <workItem from="1581598556120" duration="3465000" />
+      <workItem from="1582142198745" duration="1336000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
-    <state width="695" height="245" key="GridCell.Tab.0.bottom" timestamp="1581620795390">
+    <state width="1398" height="448" key="GridCell.Tab.0.bottom" timestamp="1582144127946">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="695" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581620795390" />
-    <state width="695" height="245" key="GridCell.Tab.0.center" timestamp="1581620795389">
+    <state width="1398" height="448" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582144127946" />
+    <state width="1398" height="448" key="GridCell.Tab.0.center" timestamp="1582144127945">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="695" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581620795389" />
-    <state width="695" height="245" key="GridCell.Tab.0.left" timestamp="1581620795388">
+    <state width="1398" height="448" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582144127945" />
+    <state width="1398" height="448" key="GridCell.Tab.0.left" timestamp="1582144127944">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="695" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581620795388" />
-    <state width="695" height="245" key="GridCell.Tab.0.right" timestamp="1581620795390">
+    <state width="1398" height="448" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582144127944" />
+    <state width="1398" height="448" key="GridCell.Tab.0.right" timestamp="1582144127945">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="695" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581620795390" />
+    <state width="1398" height="448" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582144127945" />
     <state x="0" y="189" key="Rider.ProjectTemplateDialog.Size" timestamp="1581601733119">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="0" y="189" key="Rider.ProjectTemplateDialog.Size/0.0.1440.900@0.0.1440.900" timestamp="1581601733119" />
+    <state x="383" y="194" key="search.everywhere.popup" timestamp="1582144126217">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="383" y="194" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1582144126217" />
   </component>
 </project>

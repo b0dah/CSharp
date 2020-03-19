@@ -6,7 +6,8 @@ namespace Lab3
     class TestClass
     {
         public int x, y, z;
-
+        
+        // Создание класса с различными конструкторами для примеров 1-4
         public TestClass()
         {
             x = 2;
@@ -46,16 +47,14 @@ namespace Lab3
         {
             readOnlyProperty = 10;
         }
-
+        
+        // Модификация конструктора для задачи 3.
         public ClassWithReadOnlyProperty(int value)
         {
             this.readOnlyProperty = (value < 10 && value>0) ? value : 0;
         }
 
     }
-    
-    
-    
     
     
     class Program
@@ -74,13 +73,15 @@ namespace Lab3
             // ex3
             ClassWithReadOnlyProperty roInstance = new ClassWithReadOnlyProperty();
             // roInstance.readOnlyProperty = 10; // ERROR!
-
+            
+            // Создание объектов для задачи 2
             //10 objects
             List<ClassWithReadOnlyProperty> instances = new List<ClassWithReadOnlyProperty>();
             
-            for (int i = 0; i < 10; i++)
-            {
-                instances.Add(new ClassWithReadOnlyProperty(i));
+            for (int i = 0; i < 15; i++) {
+                ClassWithReadOnlyProperty currentInstance = new ClassWithReadOnlyProperty(i);
+                Console.WriteLine("index = " + i + "     currrent instance field value is " + currentInstance.readOnlyProperty);
+                instances.Add(currentInstance);
             }
             
         }

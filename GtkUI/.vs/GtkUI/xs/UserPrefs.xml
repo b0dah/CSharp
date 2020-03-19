@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{944BE2C9-743D-4AC3-8B9E-F4EE89EA0AA0}|Default">
+  <MonoDevelop.Ide.ItemProperties.GtkUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GtkUI/MainWindow.cs">
+    <Files>
+      <File FileName="GtkUI/Program.cs" Line="1" Column="1" />
+      <File FileName="GtkUI/MainWindow.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GtkUI" expanded="True">
+            <Node name="GtkUI" expanded="True">
+              <Node name="UserInterface" expanded="True" />
+              <Node name="MainWindow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

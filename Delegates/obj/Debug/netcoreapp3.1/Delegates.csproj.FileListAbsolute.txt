@@ -1,0 +1,10 @@
+/Users/bodah/dev/CSharp/Delegates/bin/Debug/netcoreapp3.1/Delegates.deps.json
+/Users/bodah/dev/CSharp/Delegates/bin/Debug/netcoreapp3.1/Delegates.runtimeconfig.json
+/Users/bodah/dev/CSharp/Delegates/bin/Debug/netcoreapp3.1/Delegates.runtimeconfig.dev.json
+/Users/bodah/dev/CSharp/Delegates/bin/Debug/netcoreapp3.1/Delegates.dll
+/Users/bodah/dev/CSharp/Delegates/bin/Debug/netcoreapp3.1/Delegates.pdb
+/Users/bodah/dev/CSharp/Delegates/obj/Debug/netcoreapp3.1/Delegates.csprojAssemblyReference.cache
+/Users/bodah/dev/CSharp/Delegates/obj/Debug/netcoreapp3.1/Delegates.AssemblyInfoInputs.cache
+/Users/bodah/dev/CSharp/Delegates/obj/Debug/netcoreapp3.1/Delegates.AssemblyInfo.cs
+/Users/bodah/dev/CSharp/Delegates/obj/Debug/netcoreapp3.1/Delegates.dll
+/Users/bodah/dev/CSharp/Delegates/obj/Debug/netcoreapp3.1/Delegates.pdb

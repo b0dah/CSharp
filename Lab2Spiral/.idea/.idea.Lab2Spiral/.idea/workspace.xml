@@ -1,11 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f04cf85e-0dc9-450a-933f-1ef8add15ad9" name="Default Changelist" comment="" />
+    <list default="true" id="f04cf85e-0dc9-450a-933f-1ef8add15ad9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MacOS/MacOSApp1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MacOS/MacOSApp1.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MacOS/MacOSApp1.dSYM/Contents/Resources/DWARF/MacOSApp1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/MacOSApp1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/MacOSApp1.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/Mono.Security.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/Mono.Security.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/System.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/System.Core.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/System.Drawing.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/System.Net.Http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/System.Net.Http.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/System.Numerics.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/System.Numerics.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/System.Xml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/System.Xml.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/System.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/System.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/Xamarin.Mac.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/Xamarin.Mac.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/libMonoPosixHelper.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/libmono-native.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/mscorlib.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/MonoBundle/mscorlib.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/PkgInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/Resources/Main.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/Resources/Main.storyboardc/MainMenu.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/Resources/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/Resources/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.app/Contents/Resources/runtime-options.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/bin/Debug/MacOSApp1.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/Xcode/0/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/Xcode/0/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/Xcode/0/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/Xcode/0/Entitlements.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/Xcode/0/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/Xcode/0/MacOSApp1.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/Xcode/0/MacOSApp1.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/Xcode/0/MacOSApp1.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/Xcode/0/MacOSApp1.xcodeproj/project.xcworkspace/xcuserdata/bodah.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/Xcode/0/MacOSApp1.xcodeproj/xcuserdata/bodah.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/Xcode/0/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/Xcode/0/ViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/Xcode/0/ViewController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/x86/Debug/MacOSApp1.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/x86/Debug/MacOSApp1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/x86/Debug/MacOSApp1.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/x86/Debug/actool/_BundleResourceWithLogicalName.items" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/x86/Debug/actool/_PartialAppManifest.items" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/x86/Debug/actool/asset-manifest.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/x86/Debug/actool/cloned-assets/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/x86/Debug/actool/partial-info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/x86/Debug/ibtool-manifests/Main.storyboardc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/x86/Debug/ibtool/Main.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/x86/Debug/ibtool/Main.storyboardc/MainMenu.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/x86/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/x86/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/x86/Debug/mmp-cache/arguments" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/x86/Debug/mmp-cache/entry-points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/x86/Debug/mmp-cache/exported-symbols-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/x86/Debug/mmp-cache/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacOSApp1/MacOSApp1/obj/x86/Debug/response-file.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab2Spiral/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab2Spiral/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2Spiral/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2Spiral/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2Spiral/bin/Debug/netcoreapp3.1/Lab2Spiral.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2Spiral/bin/Debug/netcoreapp3.1/Lab2Spiral.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2Spiral/bin/Debug/netcoreapp3.1/Lab2Spiral.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2Spiral/bin/Debug/netcoreapp3.1/Lab2Spiral.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2Spiral/obj/Debug/netcoreapp3.1/Lab2Spiral.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2Spiral/obj/Debug/netcoreapp3.1/Lab2Spiral.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2Spiral/obj/Debug/netcoreapp3.1/Lab2Spiral.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2Spiral/obj/Debug/netcoreapp3.1/Lab2Spiral.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/.idea/.idea.Lab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/.idea/.idea.Lab3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/Lab3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/Lab3/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/Lab3/bin/Debug/netcoreapp3.1/Lab3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/Lab3/bin/Debug/netcoreapp3.1/Lab3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/Lab3/bin/Debug/netcoreapp3.1/Lab3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/Lab3/bin/Debug/netcoreapp3.1/Lab3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/Lab3/obj/Debug/netcoreapp3.1/Lab3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/Lab3/obj/Debug/netcoreapp3.1/Lab3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/Lab3/obj/Debug/netcoreapp3.1/Lab3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/Lab3/obj/Debug/netcoreapp3.1/Lab3.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Lab2Spiral/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -18,12 +100,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1Xkt4zR2dV0Slva1jeuxe5Qyawm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
@@ -59,31 +143,37 @@
       <option name="presentableId" value="Default" />
       <updated>1581601732902</updated>
       <workItem from="1581601734724" duration="7364000" />
+      <workItem from="1581673650008" duration="604000" />
+      <workItem from="1582144132660" duration="2490000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1581665734302">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1582201273934">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581665734302" />
-    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1581665734301">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582144288278" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1582201273934" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1582201273933">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581665734301" />
-    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1581665734301">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582144288276" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1582201273933" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1582201273932">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581665734301" />
-    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1581665734302">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582144288276" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1582201273932" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1582201273933">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581665734302" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582144288277" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1582201273933" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1581665734306">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -148,13 +238,18 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.4.right/0.0.1440.900@0.0.1440.900" timestamp="1581665734312" />
+    <state x="320" y="190" key="Rider.ProjectTemplateDialog.Size" timestamp="1582195640343">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="320" y="189" key="Rider.ProjectTemplateDialog.Size/0.0.1440.900@0.0.1440.900" timestamp="1582144983366" />
+    <state x="320" y="190" key="Rider.ProjectTemplateDialog.Size/0.23.1440.797@0.23.1440.797" timestamp="1582195640343" />
     <state x="99" y="178" key="SettingsEditor" timestamp="1581626400934">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="99" y="178" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1581626400934" />
-    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1581664994136">
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1582194556232">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1581664994136" />
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1582194556232" />
   </component>
 </project>
