@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="BattleShipConsole" t="IncludeRecursive">
+        <e p="BattleShipConsole.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="BattleShipConsole.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Objects" t="Include">
+          <e p="Cell.cs" t="Include" />
+          <e p="Coordinates.cs" t="Include" />
+          <e p="Extensions" t="Include">
+            <e p="CellExtension.cs" t="Include" />
+          </e>
+          <e p="FiringBoard.cs" t="Include" />
+          <e p="Game.cs" t="Include" />
+          <e p="GameBoard.cs" t="Include" />
+          <e p="OccupationType.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="Ship.cs" t="Include" />
+          <e p="Ships" t="Include">
+            <e p="Battleship.cs" t="Include" />
+            <e p="Carrier.cs" t="Include" />
+            <e p="Cruiser.cs" t="Include" />
+            <e p="Destroyer.cs" t="Include" />
+            <e p="Submarine.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="BattleShipConsole.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_BattleShipConsole.251083076.00" t="ExcludeRecursive" />
+  </component>
+</project>

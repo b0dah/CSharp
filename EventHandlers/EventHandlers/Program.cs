@@ -27,7 +27,7 @@ namespace EventHandlers {
         // Delegate Type creation
         public delegate void ChangeEventHandler(object source, ChangeEventArgs e);
         // Delegate instance creation
-        public event ChangeEventHandler onChangeHandler;
+        public event ChangeEventHandler onChangeHandler; // !⚡️
 
         public void UpdateEvent(string str, int change) {
             if (change == 0)
@@ -42,7 +42,7 @@ namespace EventHandlers {
 
     class ReceiveEvent {
         // Receiver
-        void onRecChange(object source, ChangeEventArgs changer) {
+        void onRecChange(object source, ChangeEventArgs changer) { // обработчик
             int change = changer.Change;
             Console.WriteLine("Weight '{0}' was {1} by {2} tonns", changer.Title,
                 change > 0 ? "increased" : "decreased", Math.Abs(changer.Change));
@@ -52,8 +52,8 @@ namespace EventHandlers {
 
         public ReceiveEvent(GenerateEvent generateEvent) {
             this.generateEvent = generateEvent;
-            // subscription
-            generateEvent.onChangeHandler += new GenerateEvent.ChangeEventHandler(onRecChange);
+            
+            generateEvent.onChangeHandler += new GenerateEvent.ChangeEventHandler(onRecChange); // subscription !
         }
     }
 

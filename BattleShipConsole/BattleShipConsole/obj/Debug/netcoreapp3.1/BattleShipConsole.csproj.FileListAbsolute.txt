@@ -1,0 +1,10 @@
+/Users/bodah/dev/CSharp/BattleShipConsole/BattleShipConsole/obj/Debug/netcoreapp3.1/BattleShipConsole.csprojAssemblyReference.cache
+/Users/bodah/dev/CSharp/BattleShipConsole/BattleShipConsole/obj/Debug/netcoreapp3.1/BattleShipConsole.AssemblyInfoInputs.cache
+/Users/bodah/dev/CSharp/BattleShipConsole/BattleShipConsole/obj/Debug/netcoreapp3.1/BattleShipConsole.AssemblyInfo.cs
+/Users/bodah/dev/CSharp/BattleShipConsole/BattleShipConsole/bin/Debug/netcoreapp3.1/BattleShipConsole.deps.json
+/Users/bodah/dev/CSharp/BattleShipConsole/BattleShipConsole/bin/Debug/netcoreapp3.1/BattleShipConsole.runtimeconfig.json
+/Users/bodah/dev/CSharp/BattleShipConsole/BattleShipConsole/bin/Debug/netcoreapp3.1/BattleShipConsole.runtimeconfig.dev.json
+/Users/bodah/dev/CSharp/BattleShipConsole/BattleShipConsole/bin/Debug/netcoreapp3.1/BattleShipConsole.dll
+/Users/bodah/dev/CSharp/BattleShipConsole/BattleShipConsole/bin/Debug/netcoreapp3.1/BattleShipConsole.pdb
+/Users/bodah/dev/CSharp/BattleShipConsole/BattleShipConsole/obj/Debug/netcoreapp3.1/BattleShipConsole.dll
+/Users/bodah/dev/CSharp/BattleShipConsole/BattleShipConsole/obj/Debug/netcoreapp3.1/BattleShipConsole.pdb
