@@ -68,17 +68,17 @@ namespace BattleShipConsole.Objects {
         public void OutputBoards()
         {
             Console.WriteLine(Name);
-            Console.WriteLine("Own Board:                          Firing Board:");
+            Console.WriteLine("Own Board:                                                          Firing Board:");
             for(int row = 1; row <= 10; row++)
             {
                 for(int ownColumn = 1; ownColumn <= 10; ownColumn++)
                 {
-                    Console.Write(GameBoard.Cells.At(row, ownColumn).Status + "   ");
+                    Console.Write(GameBoard.Cells.At(row, ownColumn).Status + "  ");
                 }
                 Console.Write("                ");
                 for (int firingColumn = 1; firingColumn <= 10; firingColumn++)
                 {
-                    Console.Write(FiringBoard.Cells.At(row, firingColumn).Status + "   ");
+                    Console.Write(FiringBoard.Cells.At(row, firingColumn).Status + "  ");
                 }
                 Console.WriteLine(Environment.NewLine);
             }
@@ -147,9 +147,11 @@ namespace BattleShipConsole.Objects {
             }
             
             // -> hit the ship
-            firedCell.OccupationType = OccupationType.Hit;
             var ship = Ships.First(x => x.OccupationType == firedCell.OccupationType);
             ship.Hits++;
+            
+            firedCell.OccupationType = OccupationType.Hit; // Mark the cell on the Own Board
+
             
             Console.WriteLine(Name + " says: \"Hit!\"");
 

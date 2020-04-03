@@ -12,7 +12,7 @@ namespace BattleShipConsole.Objects {
             firstPlayer.PlaceShips();
             secondPlayer.PlaceShips();
             
-            firstPlayer.OutputBoards();
+            // firstPlayer.OutputBoards();
             // secondPlayer.OutputBoards();
         }
 
