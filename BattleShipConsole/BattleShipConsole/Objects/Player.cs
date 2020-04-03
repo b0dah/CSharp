@@ -21,7 +21,7 @@ namespace BattleShipConsole.Objects {
             Console.WriteLine("\t\t total ships" + Ships.Count);
             
             foreach (var ship in Ships) {
-                Console.WriteLine("КОРабль : " + ship.Name + "    " + (char) ship.OccupationType);
+                // Console.WriteLine("КОРабль : " + ship.Name + "    " + (char) ship.OccupationType);
                 bool notPlacedYet = true;
                 
                 while (notPlacedYet) {
@@ -52,13 +52,11 @@ namespace BattleShipConsole.Objects {
                     if (affectedCells.Any(x => x.IsOccupied)) {
                         notPlacedYet = true;
                         continue;
-                    }
-                            // Console.WriteLine("*Ship placement*");
-                    Console.WriteLine("*Length = *" + affectedCells.Count);
+                    } 
+                            // Console.WriteLine("*Length = *" + affectedCells.Count);
                     // if eventually possible to place cur ship
                     foreach (var cell in affectedCells) {
                         cell.OccupationType = ship.OccupationType;
-                        // Console.WriteLine("Ship " + ship.Name + " placed at : " + cell.Coordinates.row + " " + cell.Coordinates.column);
                     }
                     
                     notPlacedYet = false;
@@ -75,12 +73,12 @@ namespace BattleShipConsole.Objects {
             {
                 for(int ownColumn = 1; ownColumn <= 10; ownColumn++)
                 {
-                    Console.Write(GameBoard.Cells.At(row, ownColumn).Status + " ");
+                    Console.Write(GameBoard.Cells.At(row, ownColumn).Status + "   ");
                 }
                 Console.Write("                ");
                 for (int firingColumn = 1; firingColumn <= 10; firingColumn++)
                 {
-                    Console.Write(FiringBoard.Cells.At(row, firingColumn).Status + " ");
+                    Console.Write(FiringBoard.Cells.At(row, firingColumn).Status + "   ");
                 }
                 Console.WriteLine(Environment.NewLine);
             }
@@ -88,7 +86,7 @@ namespace BattleShipConsole.Objects {
         }    
         
         // FIRING
-        public Coordinates FireShot() {
+        public virtual Coordinates FireShot() {
             var hitNeighbours = FiringBoard.GetHitNeighbours();
             Coordinates coordinatesToShotAt;
 
@@ -140,13 +138,16 @@ namespace BattleShipConsole.Objects {
         // Reacting to Shots Fired
         public ShotResult ProcessShot(Coordinates coordinates) {
             var firedCell = GameBoard.Cells.At(coordinates.row, coordinates.column);
+            
 
             if (!firedCell.IsOccupied) {
                 Console.WriteLine(Name + " says: \"Miss!\"");
+                firedCell.OccupationType = OccupationType.Miss;
                 return ShotResult.Miss;
             }
             
             // -> hit the ship
+            firedCell.OccupationType = OccupationType.Hit;
             var ship = Ships.First(x => x.OccupationType == firedCell.OccupationType);
             ship.Hits++;
             
@@ -155,7 +156,7 @@ namespace BattleShipConsole.Objects {
             if (ship.IsSunk) {
                 shipsLost++;
                 Console.WriteLine(Name + " says: \"You sunk my " + ship.Name + "!\"");
-                Console.WriteLine("    Player " + Name + " LOST " + shipsLost);
+                // Console.WriteLine("    Player " + Name + " LOST " + shipsLost);
             }
 
             return ShotResult.Hit;

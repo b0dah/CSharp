@@ -21,6 +21,7 @@
           <e p="FiringBoard.cs" t="Include" />
           <e p="Game.cs" t="Include" />
           <e p="GameBoard.cs" t="Include" />
+          <e p="HumanPlayer.cs" t="Include" />
           <e p="OccupationType.cs" t="Include" />
           <e p="Player.cs" t="Include" />
           <e p="Ship.cs" t="Include" />

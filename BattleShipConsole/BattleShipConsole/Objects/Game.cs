@@ -6,7 +6,7 @@ namespace BattleShipConsole.Objects {
         public Player secondPlayer { get; set; }
 
         public Game() {
-            firstPlayer = new Player("Human");
+            firstPlayer = new HumanPlayer("Human");
             secondPlayer = new Player("AI");
             
             firstPlayer.PlaceShips();
@@ -17,9 +17,10 @@ namespace BattleShipConsole.Objects {
         }
 
         public void PlayRound() {
+            firstPlayer.OutputBoards();
+            
             var firedCell = firstPlayer.FireShot();
             var result = secondPlayer.ProcessShot(firedCell);
-            
             firstPlayer.ProcessShotResult(firedCell, result);
 
             if (!secondPlayer.HasLost) {
@@ -37,8 +38,8 @@ namespace BattleShipConsole.Objects {
                 roundCount++;
             }
             
-            firstPlayer.OutputBoards();
-            secondPlayer.OutputBoards();
+            // firstPlayer.OutputBoards();
+            // secondPlayer.OutputBoards();
 
             if (firstPlayer.HasLost) {
                 Console.WriteLine(secondPlayer.Name + " has won the game!");

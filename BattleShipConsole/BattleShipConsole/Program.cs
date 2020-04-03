@@ -13,19 +13,8 @@ namespace BattleShipConsole {
     }
     class Program {
         static void Main(string[] args) {
-            
             Game game = new Game();
             game.PlayToEnd();
-            //
-            // if(game.firstPlayer.HasLost) {
-            //     Console.WriteLine("Player 2 Wins: ");
-            //     Console.ReadLine();            
-            // }
-            // else {
-            //     Console.WriteLine("Player 1 Wins: ");
-            //     Console.ReadLine();
-            // }
-            
         }
     }
 }
