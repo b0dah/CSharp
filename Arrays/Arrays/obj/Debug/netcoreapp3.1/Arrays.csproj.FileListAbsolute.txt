@@ -1,0 +1,10 @@
+/Users/bodah/dev/CSharp/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.deps.json
+/Users/bodah/dev/CSharp/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.runtimeconfig.json
+/Users/bodah/dev/CSharp/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.runtimeconfig.dev.json
+/Users/bodah/dev/CSharp/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.dll
+/Users/bodah/dev/CSharp/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.pdb
+/Users/bodah/dev/CSharp/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.csprojAssemblyReference.cache
+/Users/bodah/dev/CSharp/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.AssemblyInfoInputs.cache
+/Users/bodah/dev/CSharp/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.AssemblyInfo.cs
+/Users/bodah/dev/CSharp/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.dll
+/Users/bodah/dev/CSharp/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.pdb
